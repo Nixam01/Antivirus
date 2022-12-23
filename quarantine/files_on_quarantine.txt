@@ -1,0 +1,2 @@
+/home/nixam/Desktop/wirus.txt
+/home/nixam/Desktop/folder_testowy/wirus1.txt
